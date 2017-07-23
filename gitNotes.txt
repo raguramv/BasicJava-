@@ -1,0 +1,4 @@
+git status - check what's in the folder 
+git add * - add the files to your local git repository 
+git commit - commiting files to local git repository 
+git push - push origin files to the global repository 
